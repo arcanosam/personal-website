@@ -1,12 +1,12 @@
 # Personal Website / Samuel(@arcanosam) Digital no Neocities
 
 > [!IMPORTANT]
-> Meu site pessoal hospedado no Neocities
+> Meu site pessoal hospedado no Neocities /
 > My personal website hosted on Neocities
 
 #
 
-**Código/Code**: Licensed under MIT.
+**Código/Code**: Licensed under **MIT**.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -24,7 +24,7 @@ Shield and badges above from gist [Markdown License badges][ml-b]
 
 #
 
-**Conteúdo/Content**: All text and images are licensed under CC BY 4.0
+**Conteúdo/Content**: All text and images are licensed under **CC BY 4.0**
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 

@@ -1,0 +1,39 @@
+/* 
+  Copyright (c) 2026 Samuel Teixeira Santos
+  Licensed under the MIT License (see LICENSE file for details)
+
+  CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+
+/* https://freefrontend.com/css-triangle-backgrounds/ */
+html {	
+  background: linear-gradient(-45deg, #1f1b7899 20%, transparent 20% 80%, #1f1b7899 80% 100%), linear-gradient(45deg, #1f1b7899 20%, transparent 20% 80%, #1f1b7899 80% 100%), linear-gradient(-45deg, #000000 33%, transparent 33% 66%, #000000 66%), linear-gradient(45deg, transparent 33%, #1f1b78 33% 66%, transparent 66%);
+  background-size: 2em 2em;
+  background-color: #000000;
+  opacity: 1
+}
+
+body {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  color: #F8F7F4;
+	background: linear-gradient(-45deg, #1f1b7899 20%, transparent 20% 80%, #1f1b7899 80% 100%), linear-gradient(45deg, #1f1b7899 20%, transparent 20% 80%, #1f1b7899 80% 100%), linear-gradient(-45deg, #000000 33%, transparent 33% 66%, #000000 66%), linear-gradient(45deg, transparent 33%, #1f1b78 33% 66%, transparent 66%);
+  background-size: 2em 2em;
+  background-color: #000000;
+  opacity: 1;
+  /* Start https://www.cursors-4u.com */
+  cursor: url(https://cur.cursors-4u.net/cursors/cur-2/cur141.cur), auto;
+  /* End https://www.cursors-4u.com */
+}
+
+/* https://cssgradient.io/ */
+footer {
+  background: rgb(223,223,223);
+  background: linear-gradient(90deg, rgba(180,180,180,1) 0%, rgba(170,170,170,1) 50%, rgba(170,170,170,1) 100%);
+}
+
+/* https://www.cssfontstack.com/courier-new */
+h1 { font-family: Georgia, Times, "Times New Roman", serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: Georgia, Times, "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Georgia, Times, "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Georgia, Times, "Times New Roman", serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Georgia, Times, "Times New Roman", serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+
+
+/* Estilos para botões, títulos, etc. */
